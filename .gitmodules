@@ -1,0 +1,3 @@
+[submodule "Plugins/UE5-Spout2"]
+	path = Plugins/UE5-Spout2
+	url = https://github.com/ryanwang0521/UE5-Spout2.git
